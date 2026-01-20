@@ -1,0 +1,15 @@
+[project]
+name = "jessyink-converter"
+version = "0.1.0"
+description = "Herramienta para convertir presentaciones SVG JessyInk a PDF manteniendo efectos visuales."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "img2pdf>=0.6.3",
+    "playwright>=1.57.0",
+]
+
+[project.optional-dependencies]
+web = [
+    "streamlit>=1.53.0",
+]
