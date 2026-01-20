@@ -18,7 +18,7 @@ Convierte tus presentaciones web interactivas (SVG/HTML) a formato PDF estático
 
 La forma más rápida de usar la herramienta es a través de nuestra aplicación en la nube.
 
-👉 **[Abrir Web Slides Converter en Streamlit Cloud](https://jessyink-converter.streamlit.app/)**
+👉 **[Abrir Web Slides Converter en Streamlit Cloud](https://webslides2pdf.streamlit.app/)**
 
 ---
 
